@@ -1,4 +1,4 @@
-## Hello There! My name is Tafif Rahman, and I'm a student at the University of Wisconsin—Madison. I'm a programmer with a few years of experience. Through my studies and projects, I am proficient in Python, Java, C++, HTML/CSS/Javascript, and much more. In the future, I hope to pursue a career in artificial intelligence and machine learning.
+## Hello There! My name is Tafif Rahman, and I'm a student at the University of Wisconsin—Madison. I am pretty good at Java, C, and C++. I am mainly interested in Computer Architecture, and Firmware, but am open to any interesting fields.
 
 <!--
 **tafifrahman/tafifrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
